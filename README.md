@@ -4,7 +4,7 @@ This doc will help you Master MERN stack within two week.
 Give this repo a Star and Fork it to save it for future.
 
 ## Prerequisite for this study plan 
-(Click here if you want to study the Prerequisite like JS, React, Node.js)[https://github.com/parthamk/MERNPrerequisite/blob/main/README.md]
+[Click here if you want to study the Prerequisite like JS, React, Node.js](https://github.com/parthamk/MERNPrerequisite/blob/main/README.md)
 
 This stydy plan helped me to learn advanced MERN stack development within two weeks. Based on your learning capabilities it could take more time. Here's a breakdown of the study plan with recommended video resources:
 
