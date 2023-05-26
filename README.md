@@ -10,7 +10,7 @@ This study plan helped me to learn advanced MERN stack development within two we
 
 Week 1:
 - **Days 1-2:** Start by solidifying your fundamentals of React. Watch and follow along with the tutorials from the React Crash Course by Traversy Media: [React Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) (Duration: 1.5 hours)
-- **Days 3-4:** Dive deeper into React concepts and learn about React hooks. Watch the React Hooks in ONE Video 2022 by Code Bless You: [React Hooks Crash Course](https://www.youtube.com/watch?v=mxK8b99iJTg) (Duration: 1.5 hours)
+- **Days 3-4:** Dive deeper into React concepts and learn about React hooks. Watch the React Hooks in ONE Video by Code Bless You: [React Hooks Crash Course](https://www.youtube.com/watch?v=mxK8b99iJTg) (Duration: 1.5 hours)
 - **Days 5-6:** Now that you have a solid foundation in React, it's time to move on to learning the basics of Node.js and Express. Watch the Node.js Crash Course by Traversy Media: [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) (Duration: 1.5 hours)
 
 Week 2:
