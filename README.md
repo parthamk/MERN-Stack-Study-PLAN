@@ -14,7 +14,7 @@ Week 1:
 - **Days 5-6:** Now that you have a solid foundation in React, it's time to move on to learning the basics of Node.js and Express. Watch the Node.js Crash Course by Traversy Media: [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) (Duration: 1.5 hours)
 
 Week 2:
-- **Days 7-8:** Explore MongoDB and Mongoose, which are essential for working with databases in the MERN stack. Watch the MongoDB Crash Course by Traversy Media: [MongoDB Crash Course](https://www.youtube.com/watch?v=9OPP_1eAENg) (Duration: 1 hour)
+- **Days 7-8:** Explore MongoDB and Mongoose, which are essential for working with databases in the MERN stack. Watch the MongoDB Crash Course by Traversy Media: [MongoDB Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u) (Duration: 1 hour)
 - **Days 9-11:** Integrate React, Node.js, Express, and MongoDB by building a full-stack MERN project. Follow the MERN Stack Front To Back series by Traversy Media: [MERN Stack Front To Back](https://www.youtube.com/watch?v=6_fKEJpEEps&list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI) (Duration: 6.5 hours)
 - **Days 12-14:** Dive into advanced MERN stack concepts and explore additional libraries and tools. Watch the Advanced React & Redux series by Stephen Grider: [Advanced React & Redux](https://www.youtube.com/watch?v=93p3LxR9xfM&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) (Duration: 6.5 hours)
 
