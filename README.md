@@ -1,4 +1,4 @@
-# MERN-Stack-Study-PLAN
+# MERN-Stack-Study-Plan
 This doc will help you Master MERN stack within two week.
 
 Give this repo a Star and Fork it to save it for future.
