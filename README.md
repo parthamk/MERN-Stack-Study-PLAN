@@ -22,8 +22,22 @@ By following this study plan and dedicating 6 hours per day, you should be able 
 
 Good luck with your studies!
 
-> some bonus front end projects
+## > some bonus front end projects
 
 [![ How To Build CodeEditor With React](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957298/video_to_markdown/images/youtube--wcVxX7lu2d4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wcVxX7lu2d4 " How To Build CodeEditor With React")
+
+[![Let's Build a YouTube Clone with REACT JS for Beginners](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957425/video_to_markdown/images/youtube--NT299zIk2JY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=NT299zIk2JY "Let's Build a YouTube Clone with REACT JS for Beginners")
+
+[![Fully Functional YouTube Clone | React | Redux | Firebase | YouTube API |](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957514/video_to_markdown/images/youtube--Mos5QJAje28-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Mos5QJAje28 "Fully Functional YouTube Clone | React | Redux | Firebase | YouTube API |")
+
+[![Build Modern Portfolio with NextJS, TypeScript, SSR, and React Bricks CMS](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957555/video_to_markdown/images/youtube--Ym6RYyRBPaA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Ym6RYyRBPaA "Build Modern Portfolio with NextJS, TypeScript, SSR, and React Bricks CMS")
+
+[![ React Project Tutorial – Build a Portfolio Website w/ Advanced Animations](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957621/video_to_markdown/images/youtube--bmpI252DmiI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=bmpI252DmiI " React Project Tutorial – Build a Portfolio Website w/ Advanced Animations")
+
+[![How to Build a Instagram Clone with REACT JS for Beginners (in 3 Hours!)](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957660/video_to_markdown/images/youtube--f7T48W0cwXM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=f7T48W0cwXM "How to Build a Instagram Clone with REACT JS for Beginners (in 3 Hours!)")
+
+[![Create an Instagram Clone with React, Tailwind CSS, Firebase - Tutorial](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957709/video_to_markdown/images/youtube--mDgEqoQUBgk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=mDgEqoQUBgk "Create an Instagram Clone with React, Tailwind CSS, Firebase - Tutorial")
+
+[![Food Ordering App UI Design Using React Next.js | Responsive Restaurant Website](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957746/video_to_markdown/images/youtube--vIxGDq1SPZQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vIxGDq1SPZQ "Food Ordering App UI Design Using React Next.js | Responsive Restaurant Website")
 
 
