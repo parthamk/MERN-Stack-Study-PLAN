@@ -22,7 +22,7 @@ By following this study plan and dedicating 6 hours per day, you should be able 
 
 Good luck with your studies!
 
-## > some bonus front end projects
+>> some bonus front end projects
 
 [![ How To Build CodeEditor With React](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957298/video_to_markdown/images/youtube--wcVxX7lu2d4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wcVxX7lu2d4 " How To Build CodeEditor With React")
 
