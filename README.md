@@ -24,7 +24,6 @@ Good luck with your studies!
 
 > some bonus front end projects
 
-How To Build CodeEditor With React:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wcVxX7lu2d4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![ How To Build CodeEditor With React](https://res.cloudinary.com/marcomontalbano/image/upload/v1685957298/video_to_markdown/images/youtube--wcVxX7lu2d4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wcVxX7lu2d4 " How To Build CodeEditor With React")
 
 
