@@ -21,3 +21,10 @@ Week 2:
 By following this study plan and dedicating 6 hours per day, you should be able to gain a solid understanding of advanced MERN stack development within two weeks. Remember to code along with the tutorials, practice what you learn, and build your own projects to reinforce your knowledge.
 
 Good luck with your studies!
+
+> some bonus front end projects
+
+How To Build CodeEditor With React:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcVxX7lu2d4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
